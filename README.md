@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything fun
 - 🤔 I’m looking for help with Writing better code, being a decent colleage, and writing better docs
 - 💬 Ask me about Some javascript, typescript and radio astronomy 
-- 📫 How to reach me: You can find me on <a rel="me" href="https://mastodon.social/@mark_nicol">Mastodon @ mark_nicol @ mastodon.social</a> or <a rel="me" href="https://twitter.com/mark_nicol">Twitter @ mark_nicol</a>
+- 📫 How to reach me: You can find me on <a rel="me" href="https://mastodon.social/@mark_nicol">Mastodon @ mark_nicol @ mastodon.social</a> or <a rel="me" href="https://bsky.app/profile/mark-nicol.bsky.social">bsky @ mark-nicol.bsky.social‬</a>
 - 😄 Pronouns: He / Him or They/Them
 
